@@ -6,6 +6,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
+   
 }
 .heading{
     border-bottom: 1px gray;
@@ -16,7 +17,7 @@ body{
     border: 1px solid gray;
 }
 .body1{
-    border: 2px solid;
+   background-color: rgb(239, 224, 224);
     border-radius: 6px;
     padding: 6px;
     width: 300px;
