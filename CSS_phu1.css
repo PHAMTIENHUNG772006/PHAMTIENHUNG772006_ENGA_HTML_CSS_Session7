@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+button:nth-child(1){
+    background-color: red;
+    color: white;
+}
+.body1{
+    background-color: #EAEAEA;
+}
+h1{
+    color: rgb(24, 24, 132);
+}
+button{
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color:pink;
+    margin: 10px;
+}
+.letf{
+    margin: 10px;
+}
