@@ -15,9 +15,9 @@ body{
 }
 
 .progress-bar {
-    width: 75%; /* Adjust this to match the progress */
+    width: 75%; 
     height: 100%;
-    background-color: #DD720D; /* Dark orange */
+    background-color: #DD720D; 
     border-radius: 5px;
 }
 .body1{
@@ -59,6 +59,7 @@ h6{
     margin-left: 70%;
 }
 .item-pr{
+    margin: 3px;
     display: inline-block;
     color: #525B75;
 }
